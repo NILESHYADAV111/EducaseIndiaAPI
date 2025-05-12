@@ -4,7 +4,10 @@
   "description": "Hello this is the assignment of Educase India completed by nilesh yadav , in this two api is created , first one is The system should allow users to add new schools and retrieve a list of schools sorted by proximity to a user-specified location.",
   "main": "index.js",
   "scripts": {
-     "start": "node index.js"
+     "start": "node index.js",
+     "build": "npm install"
+
+
   },
   "author": "Nilesh Yadav",
   "license": "ISC",
